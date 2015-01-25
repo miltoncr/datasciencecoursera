@@ -1,0 +1,1 @@
+pollutantmean(specdata, sulfate, 110)
